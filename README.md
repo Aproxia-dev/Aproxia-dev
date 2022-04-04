@@ -12,14 +12,6 @@
 
 - ⚡ Fun fact: **I enjoy listening to obscure music in my free time!**
 <hr>
-<h3 align="left">My socials:</h3>
-<p align="left">
-<a href="https://twitter.com/howisshegameing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="howisshegameing (twitter link)" height="40" width="40" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCk1zcHlOko3j4UcJh-0WWig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Apro (youtube link)" height="40" width="40" /></a>&nbsp;
-<a href="https://github.com/Aproxia-dev" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="Aproxia-dev (github link)" height="40" width="40" /></a>&nbsp;
-<a href="https://open.spotify.com/user/r4ilax" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Apro <3 (spotify link)" height="40" width="40" /></a>&nbsp;
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -44,8 +36,19 @@
 <a href="https://sw.kovidgoyal.net/kitty/#" target="_blank" rel="noreferrer"> <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="kitty" width="40" height="40"/> </a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/> </a>
 </p>
-<hr>
+  
+<h3 align="left">My socials:</h3>
+<p align="left">
+<a href="https://twitter.com/howisshegameing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="howisshegameing (twitter link)" height="40" width="40" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCk1zcHlOko3j4UcJh-0WWig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Apro (youtube link)" height="40" width="40" /></a>&nbsp;
+<a href="https://github.com/Aproxia-dev" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="Aproxia-dev (github link)" height="40" width="40" /></a>&nbsp;
+<a href="https://open.spotify.com/user/r4ilax" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Apro <3 (spotify link)" height="40" width="40" /></a>&nbsp;
+</p>
+<details>
+<summary>
+<h3 align="left">GitHub Profile Info:</h3>
+</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aproxia-dev&count_private=true&show_icons=true&title_color=f5c2e7&text_color=d9e0ee&icon_color=c9cbff&bg_color=1e1e2e&border_color=575268" alt="aproxia-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aproxia-dev&layout=compact&title_color=f5c2e7&text_color=d9e0ee&bg_color=1e1e2e&border_color=575268&exclude_repo=dwm,st" /></p>
-
+</details>
