@@ -39,7 +39,6 @@
   
 <h3 align="left">My socials:</h3>
 <p align="left">
-<a href="https://twitter.com/howisshegameing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="howisshegameing (twitter link)" height="40" width="40" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCk1zcHlOko3j4UcJh-0WWig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Apro (youtube link)" height="40" width="40" /></a>&nbsp;
 <a href="https://github.com/Aproxia-dev" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="Aproxia-dev (github link)" height="40" width="40" /></a>&nbsp;
 <a href="https://open.spotify.com/user/r4ilax" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Apro <3 (spotify link)" height="40" width="40" /></a>&nbsp;
