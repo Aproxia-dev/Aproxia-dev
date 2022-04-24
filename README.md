@@ -1,5 +1,5 @@
 <h1 align="center">Heyo!! I'm Emily! 👋</h1>
-<h3 align="center">An IT student, a linux enthusiast, </h3>
+<h3 align="center">An IT student, a linux fan, a pretty interface enjoyer.</h3>
 <br>
 
 - 🌱 I’m currently learning **Rust and JavaScript**
