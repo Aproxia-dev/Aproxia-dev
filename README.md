@@ -43,7 +43,7 @@
 
 <h3 align="left">My work environment:</h3>
 <p align="left">
-<a href="https://artixlinux.org/" target="_blank" rel="noreferrer"> <img src="https://gitea.artixlinux.org/artix/artwork/raw/branch/master/icons/logo.svg" alt="artix linux" width="40" height="40"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch linux" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian linux" width="40" height="40"/> </a>
 <a href="https://awesomewm.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Awesome_logo.svg" alt="awesomewm" width="40" height="40"/> </a>
 <a href="https://www.mozilla.org/en-US/firefox/" target="_blank" rel="noreferrer"> <img src="https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/10/Fx-Browser-icon-fullColor.svg" alt="firefox" width="40" height="40"/> </a>
