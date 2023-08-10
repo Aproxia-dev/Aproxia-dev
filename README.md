@@ -6,7 +6,7 @@
 
 - 📝 I occasionally write articles on **[aproxia.me](https://aproxia.me/blog)**
 
-- 📫 Reach out to me at **apro@r4ilax.eu**, or **Aproxia#4574** on <a href="https://discord.com" target="blank"><img src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="discord" height="14" width="18" /> <strong>Discord</strong></a>!
+- 📫 Reach out to me at **apro@r4ilax.eu**, or **@mkshift** on <a href="https://discord.com" target="blank"><img src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="discord" height="14" width="18" /> <strong>Discord</strong></a>!
 
 - 🇨🇿 I'm from the **Czech Republic**.
 
@@ -63,6 +63,7 @@
 <a href="https://www.youtube.com/channel/UCk1zcHlOko3j4UcJh-0WWig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Apro (youtube link)" height="40" width="40" /></a>&nbsp;
 <a href="https://github.com/Aproxia-dev" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="Aproxia-dev (github link)" height="40" width="40" /></a>&nbsp;
 <a href="https://open.spotify.com/user/r4ilax" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Apro <3 (spotify link)" height="40" width="40" /></a>&nbsp;
+<a href="https://social.owo.digital/@emily" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" alt="@emily@social.owo.digital (fediverse link)" height="40" width="40" /></a>&nbsp;
 </p>
 <details>
 <summary>
