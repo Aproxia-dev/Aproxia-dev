@@ -49,13 +49,13 @@
 
 <h3 align="left">My work environment:</h3>
 <p align="left">
-<a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/ac04f06feb980e048b4ab2a7ca32997984b8b5ae/logo/nix-snowflake.svg" alt="nixos" width="40" height="40"/> </a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" alt="arch linux" width="40" height="40"/> </a>
-<a href="https://awesomewm.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Awesome_logo.svg" alt="awesomewm" width="40" height="40"/> </a>
-<a href="https://www.mozilla.org/en-US/firefox/" target="_blank" rel="noreferrer"> <img src="https://hg.mozilla.org/mozilla-central/raw-file/tip/browser/branding/official/content/about-logo.svg" alt="firefox" width="40" height="40"/> </a>
-<a href="https://github.com/wez/wezterm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" alt="wezterm" width="40" height="40"/> </a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/> </a>
-<a href="https://github.com/VSCodium/vscodium" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VSCodium/vscodium/bff2e71e5539127763e1eb55671193a5378df576/icons/codium_only.svg" alt="vscodium" width="40" height="40"/> </a>
+<a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/ac04f06feb980e048b4ab2a7ca32997984b8b5ae/logo/nix-snowflake.svg" alt="nixos" width="40" height="40"/></a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" alt="arch linux" width="40" height="40"/></a>
+<a href="https://awesomewm.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Awesome_logo.svg" alt="awesomewm" width="40" height="40"/></a>
+<a href="https://www.mozilla.org/en-US/firefox/" target="_blank" rel="noreferrer"> <img src="https://hg.mozilla.org/mozilla-central/raw-file/tip/browser/branding/official/content/about-logo.svg" alt="firefox" width="40" height="40"/></a>
+<a href="https://github.com/wez/wezterm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" alt="wezterm" width="40" height="40"/></a>
+<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/></a>
+<a href="https://github.com/VSCodium/vscodium" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VSCodium/vscodium/bff2e71e5539127763e1eb55671193a5378df576/icons/codium_only.svg" alt="vscodium" width="40" height="40"/></a>
 </p>
   
 <h3 align="left">My socials:</h3>
