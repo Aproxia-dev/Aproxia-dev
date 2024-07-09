@@ -73,5 +73,5 @@
 </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aproxia-dev&count_private=true&show_icons=true&title_color=f5c2e7&text_color=d9e0ee&icon_color=c9cbff&bg_color=1e1e2e&border_color=575268" alt="aproxia-dev"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aproxia-dev&layout=compact&title_color=f5c2e7&text_color=d9e0ee&bg_color=1e1e2e&border_color=575268&langs_count=6&exclude_repo=st-flexipatch"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aproxia-dev&layout=compact&title_color=f5c2e7&text_color=d9e0ee&bg_color=1e1e2e&border_color=575268&langs_count=6&exclude_repo=st-flexipatch,Create-Astral-SMP-edit"></p>
 </details>
