@@ -1,5 +1,5 @@
 <h1 align="center">Heyo!! I'm Emi! 👋</h1>
-<h3 align="center">IT graduate, coder witch, Linux fan, pretty interface enjoyer.</h3>
+<h3 align="center">Coder witch, Linux fan, pretty interface enjoyer.</h3>
 <br>
 
 - 🌱 I’m currently learning **Web development**!
