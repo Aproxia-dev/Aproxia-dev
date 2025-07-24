@@ -85,8 +85,8 @@ Computer Poker by trade, Software Developer by heart.<br>
 ---
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
-  <img alt="github-snake" src="snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aproxia-dev/Aproxia-dev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aproxia-dev/Aproxia-dev/output/snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aproxia-dev/Aproxia-dev/output/snake-dark.svg" />
 </picture>
 </details>
