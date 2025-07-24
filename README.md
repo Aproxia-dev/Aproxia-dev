@@ -37,7 +37,7 @@ Computer Poker by trade, Software Developer by heart.<br>
   <a href="https://t.me/@aproxia">
     <img alt="Telegram: @aproxia" src="https://img.shields.io/badge/%40aproxia-blue?style=for-the-badge&logo=telegram&labelColor=000000&color=%2326A5E4" />
   </a><br/>
-  <a href="mailto://apro@owo.digital">
+  <a href="mailto:apro@owo.digital">
     <img alt="Email: apro@owo.digital" src="https://img.shields.io/badge/apro%40owo.digital-white?style=for-the-badge&labelColor=000000&color=ffffff&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYWlsLWljb24gbHVjaWRlLW1haWwiPjxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAgMS0yLjAwOSAwTDIgNyIvPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48L3N2Zz4%3D" />
   </a><br>
   <a href="https://maps.app.goo.gl/g9fqXUqF7e6etwKJA">
