@@ -8,7 +8,7 @@
 
 
 Computer Poker by trade, Software Developer by heart.<br>
-<sub>(Official Job Title: Test Technician, but that sounds boring 🙄)</sub>
+<sub><samp>(Official Job Title: **Test Technician**, but that sounds boring 🙄)</samp></sub>
 
 <blockquote>“Through breakdowns to breakthroughs.”</blockquote>
 <blockquote>“Don't care if you think it's cringe because it's not your life!”</blockquote>
