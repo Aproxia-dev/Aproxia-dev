@@ -77,7 +77,7 @@ Computer Poker by trade, Software Developer by heart.<br>
 <details><summary><b>GitHub Stats</b></summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aproxia-dev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aproxia-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aproxia-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2&exclude_repo=Create-Astral-SMP-edit" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Aproxia-dev&locale=en&mode=weekly&theme=rose-pine&hide_border=false&border_radius=5&date_format=j.%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Aproxia-dev&theme=aura&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
 </div>
