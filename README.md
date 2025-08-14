@@ -7,7 +7,7 @@
 </div>
 
 
-Computer Poker by trade, Software Developer by heart.<br>
+Computer Booper by trade, Software Developer by heart.<br>
 <sub><samp>(Official Job Title: **Test Technician**, but that sounds boring 🙄)</samp></sub>
 
 <blockquote>“Through breakdowns to breakthroughs.”</blockquote>
