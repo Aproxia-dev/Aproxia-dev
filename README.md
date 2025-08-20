@@ -10,7 +10,7 @@
 Computer Booper by trade, Software Developer by heart.<br>
 <sub><samp>(Official Job Title: **Test Technician**, but that sounds boring 🙄)</samp></sub>
 
-<blockquote>“Through breakdowns to breakthroughs.”</blockquote>
+<blockquote>“We are the software makers, and we are the dreamers of dreams.”</blockquote>
 <blockquote>“Don't care if you think it's cringe because it's not your life!”</blockquote>
 
 ## What Am I Up To?
