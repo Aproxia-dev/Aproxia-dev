@@ -41,7 +41,7 @@ Computer Booper by trade, Software Developer by heart.<br>
     <img alt="Email: apro@owo.digital" src="https://img.shields.io/badge/apro%40owo.digital-white?style=for-the-badge&labelColor=000000&color=ffffff&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tYWlsLWljb24gbHVjaWRlLW1haWwiPjxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAgMS0yLjAwOSAwTDIgNyIvPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48L3N2Zz4%3D" />
   </a><br>
   <a href="https://maps.app.goo.gl/g9fqXUqF7e6etwKJA">
-    <img alt="Location: Brno, CZ" src="https://img.shields.io/badge/Brno%2C_CZ-lightsalmon?style=for-the-badge&label=%F0%9F%93%8D&labelColor=black" />
+    <img alt="Location: Brno, CZ" src="https://img.shields.io/badge/Brno%2C_CZ-lightsalmon?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiIGZpbGw9IiNmZmEwN2EiPjxwYXRoIGQ9Ik00ODAtNDgwcTMzIDAgNTYuNS0yMy41VDU2MC01NjB0LTIzLjUtNTYuNVQ0ODAtNjQwdC01Ni41IDIzLjVUNDAwLTU2MHQyMy41IDU2LjVUNDgwLTQ4MG0wIDQwMFEzMTktMjE3IDIzOS41LTMzNC41VDE2MC01NTJxMC0xNTAgOTYuNS0yMzlUNDgwLTg4MHQyMjMuNSA4OVQ4MDAtNTUycTAgMTAwLTc5LjUgMjE3LjVUNDgwLTgwIi8%2BPC9zdmc%2B&labelColor=black" />
   </a>
 </p>
 
